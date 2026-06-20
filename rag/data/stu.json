@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "User_1", "age": 42, "score": 32.78, "category": "A"},
+  {"id": 2, "name": "User_2", "age": 31, "score": 66.7, "category": "C"},
+  {"id": 3, "name": "User_3", "age": 38, "score": 84.09, "category": "E"},
+  {"id": 4, "name": "User_4", "age": 41, "score": 19.62, "category": "C"},
+  {"id": 5, "name": "User_5", "age": 54, "score": 53.54, "category": "D"},
+  {"id": 6, "name": "User_6", "age": 80, "score": 49.78, "category": "D"}
+]
