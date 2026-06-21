@@ -1,1 +1,4 @@
 .vscode
+chroma_db
+chat_history/*
+__pycache__

@@ -10,7 +10,7 @@ from langchain_core.runnables import RunnablePassthrough
 
 
 # 初始化通义大模型
-model = ChatTongyi(model="qwen3-max")
+model = ChatTongyi(model="qwen3.6-max-preview")
 
 # 构建对话提示词模板
 prompt = ChatPromptTemplate.from_messages(
